@@ -1,0 +1,14 @@
+layout_spectrum: 0.8554763996507972
+typography_spectrum: 0.3755323605146259
+color:
+  brandStrength: 0.8393027046695352
+  lightness: 0.5819498740602285
+  saturation: 0.6036475775763392
+  rhythmicContrast: 0.747743665240705
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: PickPocket
